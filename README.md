@@ -1,15 +1,15 @@
 ![MasterHead](https://user-images.githubusercontent.com/67656229/231989130-452bdc96-4fb3-4129-91d6-1c2fb1e8ce90.gif)
  <h1 align="center">Hi 👋, I'm Prakhar Singh</h1>
- <h3 align="center">A passionate Flutter Developer from India</h3>
+ <h3 align="center">A passionate Software Developer from India</h3>
  <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharsinghg&label=Profile%20views&color=0e75b6&style=flat" alt="prakharsinghg" /> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrakharSinghG](https://github.com/PrakharSinghG)
 
-- 💬 Ask me about **Android, Flutter, Dart**
+- 💬 Ask me about **Android, Flutter, Dart, HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **prakharsingh2001@gmail.com**
 
